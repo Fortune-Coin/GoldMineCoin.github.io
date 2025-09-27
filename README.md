@@ -1,2 +1,2 @@
 # GoldMineCoin.github.io
-Become Millionare by buying Fortune GoldMineCoin
+Building the future of memes & money 🚀 | On a mission to turn laughter into liquidity 💸 | Solana | Web3 | Community-powered
