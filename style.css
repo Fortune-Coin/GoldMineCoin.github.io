@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #111;
+  color: #f2f2f2;
+  text-align: center;
+}
+
+header {
+  padding: 2rem;
+  background: linear-gradient(90deg, #FFD700, #FF8C00);
+  color: #111;
+}
+
+.logo {
+  width: 120px;
+  border-radius: 50%;
+  margin-bottom: 1rem;
+  border: 3px solid #fff;
+}
+
+h1 {
+  margin: 0.5rem 0;
+  font-size: 2.5rem;
+}
+
+main {
+  padding: 2rem;
+}
+
+.about {
+  max-width: 600px;
+  margin: auto;
+}
+
+.links ul {
+  list-style: none;
+  padding: 0;
+}
+
+.links li {
+  margin: 0.5rem 0;
+}
+
+.links a {
+  color: #FFD700;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.links a:hover {
+  text-decoration: underline;
+}
+
+footer {
+  margin-top: 2rem;
+  padding: 1rem;
+  background: #222;
+  font-size: 0.9rem;
+  color: #aaa;
+}

@@ -1,0 +1,17 @@
+{
+  "name": "My MemeCoin",
+  "symbol": "MEME",
+  "description": "The funniest memecoin on Solana.",
+  "image": "https://raw.githubusercontent.com/<your-username>/<repo-name>/main/logo.png",
+  "attributes": [
+    { "trait_type": "Category", "value": "Meme" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/<your-username>/<repo-name>/main/logo.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
