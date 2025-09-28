@@ -2,6 +2,7 @@
   "name": "GlobeFi",
   "symbol": "GLFI",
   "description": "GlobeFi memecoin test on Solana devnet",
-  "image": "https://github.com/FutuneCoin/GoldMineCoin.github.io/blob/main/GLFI.png",
+  "image": "https://raw.githubusercontent.com/FutuneCoin/GoldMineCoin.github.io/main/GLFI.png",
   "attributes": []
 }
+
