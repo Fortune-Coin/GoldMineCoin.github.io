@@ -1,0 +1,14 @@
+{
+  "name": "Zcash  on Solana",
+  "symbol": "ZEC",
+  "description": "Unstoppable Private Money",
+  "image": "https://ipfs.io/ipfs/QmaXYBZKrhKXmyb3rooXFoSQ1bfTSGGs5Mvh9Rfvw2FP74",
+  "twitter": "https://twitter.com/zcash",
+  "telegram": "https://t.me/Zcash_Community",
+  "website": "https://z.cash/",
+  "extensions": {
+    "twitter": "https://twitter.com/zcash",
+    "website": "https://z.cash/",
+    "telegram": "https://t.me/Zcash_Community"
+  }
+}
